@@ -9,23 +9,28 @@
 #ifndef __Leaves__Leaves__
 #define __Leaves__Leaves__
 
-#include <stdio.h>
+//#include <stdio.h>
 #include "ofMain.h"
 
-class Leaves : public ofBaseApp{
+class Leaf : public ofBaseApp{
     
 public:
     void setup();
     void update();
     void draw();
     
+private:
     float xPos;
     float yPos;
-    float leafLenght, leafWidth;
-    float stemWidth, stemLenght;
-    float leafColor;
+    float leafLength, leafWidth;
+    float stemWidth, stemLength;
+    ofColor leafColor;
+    ofColor stemColor;
     float leafScale;
     float rotation;
+    float scaleFactor;
+
+
 };
 
 

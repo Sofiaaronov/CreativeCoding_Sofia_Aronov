@@ -1,9 +1,12 @@
 #include "ofApp.h"
+#include "ofMain.h"
 
 
 //--------------------------------------------------------------
 void ofApp::setup(){
-
+  
+    
+    leaf.ofBaseApp::setup();
 }
 
 //--------------------------------------------------------------
@@ -13,6 +16,8 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
+    
+    leaf.draw();
 
 }
 
@@ -27,7 +32,7 @@ void ofApp::keyReleased(int key){
 }
 
 //--------------------------------------------------------------
-void ofApp::mouseMoved(int x, int y ){
+void ofApp::mouseMoved(int x, int y){
 
 }
 
