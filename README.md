@@ -1,4 +1,4 @@
-![Sofia Aronov](/Users/sofiaaronov/Desktop/openFrameworks/CreativeCoding_oF_F15_Sofia_Aronov/Sofia Aronov Picture.jpg =160x200)
+![Sofia Aronov](https://github.com/Sofiaaronov/CreativeCoding_oF_F15_Sofia_Aronov/blob/master/Sofia%20Aronov%20Picture.jpg)
 
 [Sofia Aronov - Personal Website](http://sofiaaronov.com) 
 
