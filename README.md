@@ -1,4 +1,4 @@
-![Sofia Aronov](https://raw.githubusercontent.com/Sofiaaronov/CreativeCoding_oF_F15_Sofia_Aronov/master/Sofia%20Aronov%20Picture.jpg)
+![Sofia Aronov](https://raw.githubusercontent.com/Sofiaaronov/CreativeCoding_oF_F15_Sofia_Aronov/master/Sofia%20Aronov%20Picture.jpg =200x260)
 
 [Sofia Aronov - Personal Website](http://sofiaaronov.com) 
 
