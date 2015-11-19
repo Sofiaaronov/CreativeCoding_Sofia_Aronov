@@ -44,7 +44,7 @@ Tree completed with sesasons, leaves, branches and flowers.
 
 * Create Readme and modifiy with Mow
 
-![MyTree](/Users/sofiaaronov/Desktop/openFrameworks/CreativeCoding_oF_F15_Sofia_Aronov/Screen Shot 2015-10-01 at 19.33.36.png =400x300)
+![MyTree](https://github.com/Sofiaaronov/CreativeCoding_oF_F15_Sofia_Aronov/blob/master/Screen%20Shot%202015-10-01%20at%2019.33.36.png)
 
 
 ##### Week 6: Fireworks
@@ -62,7 +62,7 @@ For my final experimentation with animation and interactitiy it Has been my inte
 Here is a rendering plan of the dynamics of the water particles, which is working in folder "Water1").
 
 
-![Water Cycle](/Users/sofiaaronov/Desktop/openFrameworks/CreativeCoding_oF_F15_Sofia_Aronov/water Cycle.jpg =200x900)
+![Water Cycle](https://github.com/Sofiaaronov/CreativeCoding_oF_F15_Sofia_Aronov/blob/master/water%20Cycle.jpg)
 
 * Physics: acceleration, velocity, bounciness
 * Interaction: mousePressed
