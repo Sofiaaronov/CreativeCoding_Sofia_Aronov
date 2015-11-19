@@ -44,7 +44,10 @@ Tree completed with sesasons, leaves, branches and flowers.
 
 * Create Readme and modifiy with Mow
 
-##### Week 6: Tree: Fireworks
+![MyTree](/Users/sofiaaronov/Desktop/openFrameworks/CreativeCoding_oF_F15_Sofia_Aronov/Screen Shot 2015-10-01 at 19.33.36.png =400x300)
+
+
+##### Week 6: Fireworks
 
 * Physics: velocity and acceleration
 * Radial movement (cos and sin)
@@ -52,14 +55,14 @@ Tree completed with sesasons, leaves, branches and flowers.
 * Gravity simulation
 
 
-##### Week 9: Tree: Water Cycle
+##### Week 9: Water Cycle
 
 For my final experimentation with animation and interactitiy it Has been my intention to recreate a "water cycle" using particles and approaching the ofxBox2d addon to draw colliders (foder "Water2", attempt which eventually failed: I'd like to carry on on this path and make it work)).
 
 Here is a rendering plan of the dynamics of the water particles, which is working in folder "Water1").
 
 
-![Water Cycle](https://github.com/Sofiaaronov/CreativeCoding_oF_F15_Sofia_Aronov/blob/master/water %20Cycle.jpg)
+![Water Cycle](/Users/sofiaaronov/Desktop/openFrameworks/CreativeCoding_oF_F15_Sofia_Aronov/water Cycle.jpg =200x900)
 
 * Physics: acceleration, velocity, bounciness
 * Interaction: mousePressed
